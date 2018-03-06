@@ -1,2 +1,2 @@
 # nmap-arp-script
-Python script for running nmap and arp scan
+Python & bash script for running nmap and arp scan
